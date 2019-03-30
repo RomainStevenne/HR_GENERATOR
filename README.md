@@ -11,6 +11,8 @@ tensorflow
 on generate_best_quality_image.py:
 
 change the INPUT_FILE with the name of your low quality image
+
 change the OUTPUT_FILE with the name where the High quality image will be save
+
 
 run generate_best_quality_image.py
